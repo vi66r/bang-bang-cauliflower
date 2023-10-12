@@ -18,7 +18,7 @@ struct ContentView: View {
                     Text("3. 1/2 cup milk")
                     Text("4. 1/2 cup panko breadcrumbs")
                     Text("5. 1/4 cup mayonnaise")
-                    Text("6. 1/4 cup sweet chili sauce")
+                    Text("6. 1/4 cup sweet thai chili sauce")
                     Text("7. 1/4 cup honey")
                     Text("8. 1/4 cup sriracha")
                     
