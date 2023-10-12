@@ -13,7 +13,7 @@ struct ContentView: View {
                         .font(.title2)
                         .fontWeight(.bold)
                     
-                    Text("1. 1 medium cauliflower")
+                    Text("1. 1 gigantic cauliflower")
                     Text("2. 1/2 cup all-purpose flour")
                     Text("3. 1/2 cup milk")
                     Text("4. 1/2 cup panko breadcrumbs")
