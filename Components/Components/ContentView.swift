@@ -5,7 +5,7 @@ struct ContentView: View {
         NavigationView {
             ScrollView {
                 VStack(alignment: .leading, spacing: 20) {
-                    Text("Bang Bang Cauliflower")
+                    Text("Bang Bang Cauliflower!!!!")
                         .font(.largeTitle)
                         .fontWeight(.bold)
                     
