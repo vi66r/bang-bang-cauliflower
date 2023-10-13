@@ -26,7 +26,7 @@ struct ContentView: View {
                         .font(.title2)
                         .fontWeight(.bold)
                     
-                    Text("1. Preheat oven to 450°F (230°C).")
+                    Text("1. Preheat oven to 450°F (235°C).")
                     Text("2. Cut cauliflower into bite-sized florets.")
                     Text("3. In a bowl, mix flour and milk. Dip cauliflower in the mixture.")
                     Text("4. Coat cauliflower with panko breadcrumbs.")
